@@ -33,7 +33,7 @@ An AI-powered wardrobe assistant with a Tinder-style swipe interface. Upload you
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/your-org/styleme.git
+git clone https://github.com/alantchuang/styleme.git
 cd styleme
 npm install
 ```
